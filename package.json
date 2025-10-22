@@ -1,9 +1,7 @@
-
 {
   "name": "smart-capta-proxy",
   "version": "1.0.0",
   "description": "Servidor proxy para resolver problemas de CORS do Smart Capta Bot",
-  "main": "api/chat.js",
   "scripts": {
     "dev": "vercel dev",
     "deploy": "vercel --prod"
